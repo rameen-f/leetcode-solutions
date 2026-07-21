@@ -23,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rameen-f/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## String
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/rameen-f/leetcode-solutions/tree/master/0649-dota2-senate) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/rameen-f/leetcode-solutions/tree/master/0649-dota2-senate) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/rameen-f/leetcode-solutions/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
