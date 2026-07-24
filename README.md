@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rameen-f/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/rameen-f/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/rameen-f/leetcode-solutions/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rameen-f/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/rameen-f/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
 | ------- |
