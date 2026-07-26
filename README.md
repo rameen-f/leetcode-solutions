@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/rameen-f/leetcode-solutions/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/rameen-f/leetcode-solutions/tree/master/0622-design-circular-queue) |
 ## Enumeration
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/rameen-f/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/rameen-f/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
