@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rameen-f/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/rameen-f/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/rameen-f/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rameen-f/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rameen-f/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0622-design-circular-queue](https://github.com/rameen-f/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rameen-f/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rameen-f/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rameen-f/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rameen-f/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rameen-f/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
