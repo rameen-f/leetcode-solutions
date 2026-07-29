@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rameen-f/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rameen-f/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rameen-f/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/rameen-f/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/rameen-f/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rameen-f/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rameen-f/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rameen-f/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -77,8 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rameen-f/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rameen-f/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rameen-f/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rameen-f/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rameen-f/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
