@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/rameen-f/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rameen-f/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rameen-f/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3731-find-missing-elements](https://github.com/rameen-f/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rameen-f/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rameen-f/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/rameen-f/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/rameen-f/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rameen-f/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rameen-f/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/rameen-f/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Combinatorics
 |  |
 | ------- |
