@@ -22,8 +22,6 @@ class BrowserHistory:
         self.current = min(len(self.history) - 1, self.current + steps)
         return self.history[self.current]
         
-
-
 # Your BrowserHistory object will be instantiated and called as such:
 # obj = BrowserHistory(homepage)
 # obj.visit(url)
