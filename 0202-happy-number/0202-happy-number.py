@@ -10,7 +10,7 @@ class Solution:
             return total
         #check cycle exist or not
         slow = n
-        fast = getNext(n)
+        fast = getNext(n)   #func call because if slow nd fast will be equql from start while loop will not start
 
         while slow != fast:
             slow = getNext(slow)
