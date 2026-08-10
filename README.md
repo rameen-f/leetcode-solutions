@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rameen-f/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [1510-stone-game-iv](https://github.com/rameen-f/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rameen-f/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rameen-f/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/rameen-f/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -100,4 +101,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rameen-f/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/rameen-f/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/rameen-f/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/rameen-f/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/rameen-f/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/rameen-f/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/rameen-f/leetcode-solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
