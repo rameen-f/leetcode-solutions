@@ -8,6 +8,7 @@ class Solution:
 
             # If the current value is already in the window,
             # a duplicate exists within distance k
+            #if its distance will be greater than k it will already removed by removing step
             if nums[i] in window:
                 return True
 
