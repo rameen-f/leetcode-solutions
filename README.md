@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/rameen-f/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0649-dota2-senate](https://github.com/rameen-f/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [1544-make-the-string-great](https://github.com/rameen-f/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rameen-f/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rameen-f/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rameen-f/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0424-longest-repeating-character-replacement](https://github.com/rameen-f/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/rameen-f/leetcode-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rameen-f/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/rameen-f/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/rameen-f/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/rameen-f/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
