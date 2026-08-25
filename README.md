@@ -131,4 +131,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/rameen-f/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/rameen-f/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/rameen-f/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/rameen-f/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/rameen-f/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
