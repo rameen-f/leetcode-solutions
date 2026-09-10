@@ -23,3 +23,4 @@ class Solution:
             return count + left + right
 
         return dfs(root, root.val)
+        
